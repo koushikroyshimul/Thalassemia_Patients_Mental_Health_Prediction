@@ -2,10 +2,10 @@
 
 You can view and run the full notebook (with all outputs and visualizations) in Google Colab:
 
-**Earlier Version** 
+**Earlier Version** <br>
 https://colab.research.google.com/drive/1C3iayDLU0817_CylePOkxHpAEztTRXMf?usp=sharing
 
-**Updated Version**
+**Updated Version** <br>
 https://colab.research.google.com/drive/1j8sfLZ76yE8sbYFwhM3-6htrq95ZCoAX?usp=sharing
 https://colab.research.google.com/drive/1ilSjby36NpiEnRnUakOy2ADeVorCTPPn?usp=sharing
 
